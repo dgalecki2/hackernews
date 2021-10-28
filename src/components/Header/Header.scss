@@ -1,0 +1,11 @@
+.header {
+  align-items: center;
+  border-bottom: 1px solid lightgrey;
+  display: flex;
+  height: 56px;
+  justify-content: flex-start;
+  margin-bottom: 20px;
+  &__appName {
+    font-size: 18px;
+  }
+}

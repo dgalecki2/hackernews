@@ -1,0 +1,15 @@
+.button {
+  &__button {
+    background-color: #ff4500;
+    border: none;
+    border-radius: 4px;
+    color: #ffffff;
+    cursor: pointer;
+    display: block;
+    margin: 20px 0 40px 28px;
+    padding: 12px 28px;
+  }
+  &__text {
+    text-transform: uppercase;
+  }
+}
